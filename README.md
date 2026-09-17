@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | BCA Student | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+Developer;UI&UX+Developer;Building+Creative+Web+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Web+Developer;UI+&+UX+Developer;Building+Creative+Web+Projects" />
 </p>
 <br>
 🧿 I've been learning to code for 3 years, after I Switching careers. I started with HTML, CSS & JavaScript, but have really found a passion for Software Developer & Web Developement......😎<br>
