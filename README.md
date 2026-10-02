@@ -1,3 +1,4 @@
+![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif)
 <h1 align="center">Hi 👋, I'm Raj Rajpoot</h1>
 <h3 align="center">Frontend Developer | BCA Student | UI/UX Designer</h3>
 
