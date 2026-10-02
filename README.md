@@ -6,6 +6,9 @@
 </p>
 <br>
 🧿 I've been learning to code for 3 years, after I Switching careers. I started with HTML, CSS & JavaScript, but have really found a passion for Software Developer & Web Developement......😎<br>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" >
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsharma-33&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsharma-33" /> </p><br>
 💫 About Me:
 🎓 BCA Student.<br>💻 Passionate Frontend Developer.<br> 🚀 Currently Learning Bootstrap & React.<br>🔭 Working on Crush Birthday Wishes Project.<br>🤝 Open Source Contributor.<br>💬 Ask me about: I'm secretly spiderman..... but don't tell anyone.<br>📫 Reach me: sahabrajput371@gmail.com.<br>⚡ Fun Fact: I love building creative animated websites.<br>
 
